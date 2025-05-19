@@ -64,13 +64,12 @@
 
 
 .div-wrapper {
-    position: relative;
-    top:500;
+    
 }
 
 .div-wrapper img {
     position: absolute;
     left: 780;
-    bottom: 60;
+    bottom: 600;
     
 }
